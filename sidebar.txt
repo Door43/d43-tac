@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tac:home|Door43 (tac)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tac|d43-tac repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tac/archive/master.zip|d43-tac.zip]]
+
+**Recent Changes**
+{{changes>ns = tac}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tac|Ethnologue data]]
+
